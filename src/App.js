@@ -11,15 +11,15 @@ import { setContext } from "@apollo/client/link/context";
 import Nav from "./components/Nav";
 // import LoggedInNavbar from "./components/LoggedInNav";
 // import Footer from "./components/Footer";
-// import Home from "./pages/Home";
+import Home from "./pages/Home";
 // import Dashboard from "./pages/Dashboard";
-// import Signup from "./pages/Signup";
+import Signup from "./pages/Signup";
 // import About from "./pages/About";
 // import "bootstrap/dist/css/bootstrap.min.css";
 // import "./styles/Signup.css";
 // import "./styles/Navbar.css";
 // import "./styles/Footer.css";
-// import Auth from "./utils/auth";
+import Auth from "./utils/auth";
 import './App.css';
 
 
@@ -51,10 +51,10 @@ function App() {
         <Router>
           <Nav />
           <Routes>
-            {/* <Route path="/" element={<Home />} />
-            <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="/" element={<Home />} />
+            {/* <Route path="/dashboard" element={<Dashboard />} /> */}
             <Route path="/signup" element={<Signup />} />
-            <Route path="/about" element={<About />} /> */}
+            {/* <Route path="/about" element={<About />} /> */}
 
           </Routes>
           {/* <Footer /> */}
@@ -68,7 +68,7 @@ function App() {
         <Routes>
           {/* <Route path="/" element={<Home />} />
           <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/signup" element={<Signup />} />
+          // <Route path="/signup" element={<Signup />} />
           <Route path="/about" element={<About />} /> */}
         </Routes>
         {/* <Footer /> */}
