@@ -2,10 +2,10 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-// import LogInForm from "../components/LogInForm";
+import LogInForm from "../components/LogInForm";
 // import Login from "../pages/Login"
 import "../styles/Home.css";
-// import Illustration from "../assets/cooks.jpg";
+import Illustration from "../assets/skincare.png";
 
 function Home() {
   return (
@@ -16,7 +16,7 @@ function Home() {
             <div className="intro">
               <h1>
                 {" "}
-                What is <span className="only-cooks"> Beauty2Door </span>?{" "}
+                What is <span className="beauty2door"> Beauty2Door </span>?{" "}
               </h1>
               <div className="my-2">
                 <p>
@@ -26,18 +26,18 @@ function Home() {
                   are already familiar with the products you want, we have delivery options and can
                   recommend similar bundles tailored to your specific skincare needs.
                 </p>
-                {/* <div className="home-photo">
+                <div className="home-photo">
                   <img
                     src={Illustration}
-                    alt="two cooks"
+                    alt="skincare routine"
                     className="justify-content-md-center"
                   />
-                </div> */}
+                </div>
               </div>
             </div>
           </Col>
           <Col sm={6}>
-            {/* <LogInForm /> */}
+            <LogInForm />
           </Col>
         </Row>
       </Container>

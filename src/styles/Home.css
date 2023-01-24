@@ -12,17 +12,19 @@ img {
 }
 
 .home h1 {
-    font-family: 'Pacifico';
+    font-family: 'Lobster';
     letter-spacing: 0.5px;
 }
 
-.only-cooks {
+.beauty2door {
     color: var(--blue);
 }
 
 .home-photo {
     display: flex;
     justify-content: center;
+    scale: 140%;
+    margin-top: 50px;
 }
 
 .loginForm {

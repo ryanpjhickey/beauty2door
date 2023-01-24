@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,100;0,300;0,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
 
 :root {
   --orange: #DC7647;
@@ -7,6 +7,7 @@
   --green: #50A34F;
   --darkgreen: #106F1E;
   --blue: #3986eb;
+  --tan: #c0c0c0;
   --bg: #f1f1f1;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -15,12 +16,12 @@
 }
 
 body {
-  font-family: 'Poppins';
+  font-family: 'Lobster';
   font-weight: 300;
   background-color: var(--bg);
 }
 
 .card-header,
 .friends {
-  font-family: 'Pacifico';
+  font-family: 'Lobster';
 }

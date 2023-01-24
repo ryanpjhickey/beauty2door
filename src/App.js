@@ -15,10 +15,10 @@ import Home from "./pages/Home";
 // import Dashboard from "./pages/Dashboard";
 import Signup from "./pages/Signup";
 // import About from "./pages/About";
-// import "bootstrap/dist/css/bootstrap.min.css";
-// import "./styles/Signup.css";
-// import "./styles/Navbar.css";
-// import "./styles/Footer.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./styles/Signup.css";
+import "./styles/Nav.css";
+import "./styles/Footer.css";
 import Auth from "./utils/auth";
 import './App.css';
 
