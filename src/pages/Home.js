@@ -5,7 +5,7 @@ import Col from "react-bootstrap/Col";
 import LogInForm from "../components/LogInForm";
 // import Login from "../pages/Login"
 import "../styles/Home.css";
-import Illustration from "../assets/skincare.png";
+import Illustration from "../assets/skincare.jpg";
 
 function Home() {
   return (
@@ -26,11 +26,11 @@ function Home() {
                   are already familiar with the products you want, we have delivery options and can
                   recommend similar bundles tailored to your specific skincare needs.
                 </p>
-                <div className="home-photo">
+                <div className="home-photo-div">
                   <img
                     src={Illustration}
                     alt="skincare routine"
-                    className="justify-content-md-center"
+                    className="home-photo"
                   />
                 </div>
               </div>

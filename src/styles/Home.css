@@ -20,12 +20,17 @@ img {
     color: var(--blue);
 }
 
-.home-photo {
-    display: flex;
-    justify-content: center;
-    scale: 140%;
+.home-photo-div {
+    position: absolute;
+    scale: 120%;
     margin-top: 50px;
+    left: 475px;
 }
+
+/* .home-photo {
+    position: absolute;
+    left: 200px;
+} */
 
 .loginForm {
     padding: 10px 30px 50px 20px;
