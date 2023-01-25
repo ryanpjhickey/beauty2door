@@ -37,9 +37,9 @@ function Nav() {
           {" "}
           <span title="Sign Up"> Sign Up </span>{" "}
         </Link>
-        <Link id="cubic" to="/about">
+        <Link id="cubic" to="/store">
           {" "}
-          <span title="About"> About </span>{" "}
+          <span title="Store"> Store </span>{" "}
         </Link>
       </div>
     </div>
