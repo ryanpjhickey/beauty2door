@@ -40,13 +40,12 @@ const resolvers = {
       },
       addItem: async (parent, args) => {
           
-          const item = await Item.create({ ...args });
+          const item = await Item.create({ ...args }); 
           
           return item;
         }
       
       }
-  }
 };
   
   module.exports = resolvers;
