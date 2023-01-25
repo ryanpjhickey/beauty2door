@@ -50,7 +50,7 @@ https://github.com/ryanpjhickey/beauty2door
 
 ## Screenshot:
 
-<img width="955" alt="image" src=https://raw.githubusercontent.com/ryanpjhickey/beauty2door/main/client/src/assets/store.png>
+![image](https://user-images.githubusercontent.com/108383347/214478099-72de1204-e3dd-46e2-9748-9d734a8ad8d7.png)
 
 #
 
