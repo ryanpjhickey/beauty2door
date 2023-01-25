@@ -16,11 +16,11 @@ function Home() {
             <div className="intro">
               <h1>
                 {" "}
-                What is <span className="beauty2door"> Beauty2Door </span>?{" "}
+                What is <span className="beauty2door"> BeautyToYou </span>?{" "}
               </h1>
               <div className="my-2">
                 <p>
-                  Beauty2Door is a e-commerce delivery app where you can learn more about
+                  BeautyToYou is a e-commerce delivery app where you can learn more about
                   skincare products and have them delivered directly to your door. If you are
                   in need of a new skincare routine, allow us to pick one out for you! Or, if you
                   are already familiar with the products you want, we have delivery options and can
