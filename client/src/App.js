@@ -14,6 +14,7 @@ import Nav from "./components/Nav";
 import Home from "./pages/Home";
 // import Dashboard from "./pages/Dashboard";
 import Signup from "./pages/Signup";
+import Store from "./pages/Store";
 // import About from "./pages/About";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./styles/Signup.css";
@@ -54,7 +55,7 @@ function App() {
             <Route path="/" element={<Home />} />
             {/* <Route path="/dashboard" element={<Dashboard />} /> */}
             <Route path="/signup" element={<Signup />} />
-            {/* <Route path="/about" element={<About />} /> */}
+            <Route path="/store" element={<Store />} />
 
           </Routes>
           {/* <Footer /> */}
