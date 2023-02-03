@@ -1,4 +1,4 @@
-# beauty2door
+# BeautyToYou
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Coming Soon
 ## Description
 
 
-beauty2door is an e-commerce app that allows users to subscribe to beauty boxes and get products delivered directly to their door! Users can browse various different package options that include only the best beauty and skincare products.
+BeautyToYou is an e-commerce app that allows users to subscribe to beauty boxes and get products delivered directly to their door! Users can browse various different package options that include only the best beauty and skincare products.
 
 ---
 
