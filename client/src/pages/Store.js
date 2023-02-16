@@ -26,6 +26,7 @@ function Store() {
           <h2 class="card_title">Skincare Starter Pack</h2>
           <p class="card_text">This pack includes our recommended skincare products for those who are not as familiar with skincare products.</p>
           <button class="btn card_btn">Read More</button>
+          <button class="btn card_btn">Add to Cart</button>
         </div>
       </div>
     </li>
@@ -36,6 +37,7 @@ function Store() {
           <h2 class="card_title">Skincare Enthusiast Bundle</h2>
           <p class="card_text">This pack is perfect for beauty enthusiasts! Get only the best of the best in this pack!</p>
           <button class="btn card_btn">Read More</button>
+          <button class="btn card_btn">Add to Cart</button>
         </div>
       </div>
     </li>
@@ -46,6 +48,7 @@ function Store() {
           <h2 class="card_title">Skincare Tester Pack</h2>
           <p class="card_text">This pack is perfect for testing out small size skincare products. Includes new and trendy products!</p>
           <button class="btn card_btn">Read More</button>
+          <button class="btn card_btn">Add to Cart</button>
         </div>
       </div>
     </li>
@@ -56,6 +59,7 @@ function Store() {
           <h2 class="card_title">Beauty Starter Pack</h2>
           <p class="card_text">This pack includes our recommended beauty products for those who are not as familiar with beauty products.</p>
           <button class="btn card_btn">Read More</button>
+          <button class="btn card_btn">Add to Cart</button>
         </div>
       </div>
     </li>
@@ -66,6 +70,7 @@ function Store() {
           <h2 class="card_title">Beauty Enthusiast Pack</h2>
           <p class="card_text">This pack is perfect for beauty enthusiasts! Get only the best of the best in this pack!</p>
           <button class="btn card_btn">Read More</button>
+          <button class="btn card_btn">Add to Cart</button>
         </div>
       </div>
     </li>
@@ -76,6 +81,7 @@ function Store() {
           <h2 class="card_title">Beauty Tester Pack</h2>
           <p class="card_text">This pack is perfect for testing out small size beauty products. Includes new and trendy products!</p>
           <button class="btn card_btn">Read More</button>
+          <button class="btn card_btn">Add to Cart</button>
         </div>
       </div>
     </li>
