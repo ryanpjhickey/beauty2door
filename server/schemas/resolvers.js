@@ -1,4 +1,3 @@
-const { User, Recipe } = require('../models');
 const { AuthenticationError } = require('apollo-server-express');
 const { signToken } = require('../utils/auth');
 
@@ -14,6 +13,10 @@ const resolvers = {
           }
         
         },
+
+  Item: {
+    //TODO, add item resolver
+  },
         
   Mutation: {
     createUser: async (parent, args) => {
